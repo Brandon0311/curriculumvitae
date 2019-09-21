@@ -1,0 +1,53 @@
+
+body{
+    background: #F5F3F2;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: justify;
+}
+img{
+    width: 100%;
+    max-width: 800px;
+}
+.imagen_redonda{
+    border-radius: 50%;
+}
+
+h2{
+    background: black;
+    color: white;
+}
+
+header{
+    text-align: center;
+}
+
+/*main{
+    text-align: center;
+}*/
+
+div{
+    background: #D5D3D1;
+}
+
+em{
+    text-decoration: underline;
+    color: blue;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.letraverde{
+    color: green;
+}
+
+footer{
+    text-align: center;
+    background: orange;
+}
+
+.letra_morada{
+    color: #D81AC3;
+    font-weight: bold;
+    background: grey;
+}
